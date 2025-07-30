@@ -34,7 +34,7 @@ const Experience: React.FC = () => {
             <h3 className="text-2xl font-bold text-slate-900 mb-2">Previous Experience</h3>
             <p className="text-lg text-gray-600 mb-4">Software Engineering Roles</p>
             <p className="text-slate-700">
-              Prior to my current role, I worked on various software engineering projects, focusing on web development and application building. My work has consistently aligned with my mission of enhancing how people understand and create.
+              Prior to my current role, I worked on various software engineering projects, focusing on web development and application building.
             </p>
           </div>
         </div>

@@ -57,13 +57,6 @@ const Achievements: React.FC = () => {
       organization: "EdTech Category",
       description: "Won with Symbolic Gestures' core product.",
       link: "https://www.prlog.org/12668966-winners-of-mobile-tech-hackathon-hosted-at-google-launchpad.html"
-    },
-    {
-      title: "Arctic Code Vault Contributor",
-      organization: "GitHub",
-      description: "Contributed code to repositories that were archived in the Arctic Code Vault, a program to preserve open source software for future generations.",
-      date: "",
-      link: ""
     }
   ];
 

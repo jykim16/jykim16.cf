@@ -75,16 +75,16 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
 const Projects: React.FC = () => {
   const projects = [
     {
-      title: "Tweetrics",
-      description: "Twitter User's Tweet Analysis tool that provides insights into tweet patterns and engagement metrics.",
-      technologies: ["Data Analysis", "Social Media", "JavaScript"],
-      imageUrl: "/projects/Tweetrics.gif"
-    },
-    {
       title: "Alexa LLM Infrastructure",
       description: "Deployed LLM inference infrastructure for the Alexa+ launch, enabling advanced language model capabilities.",
       technologies: ["AWS", "ML", "LLM", "Infrastructure"],
       imageUrl: "/projects/alexa-llm.png"
+    },
+    {
+      title: "Tweetrics",
+      description: "Twitter User's Tweet Analysis tool that provides insights into tweet patterns and engagement metrics.",
+      technologies: ["Data Analysis", "Social Media", "JavaScript"],
+      imageUrl: "/projects/Tweetrics.gif"
     },
     {
       title: "TargetBot",

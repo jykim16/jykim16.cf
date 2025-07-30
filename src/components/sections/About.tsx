@@ -7,7 +7,7 @@ const About: React.FC = () => {
         <h2 className="text-4xl font-bold text-center mb-12 text-slate-900">About Me</h2>
         <div className="max-w-4xl mx-auto">
           <p className="text-lg mb-6 text-slate-700">
-            I am a software engineer driven by the mission of revolutionizing how people learn, understand, and create. 
+            I am a joyful human, an avid programmer, and a passionate educator. 
             Currently at Amazon Web Services (AWS), I focus on building robust machine learning infrastructure and AI solutions.
           </p>
           <p className="text-lg mb-6 text-slate-700">
@@ -20,7 +20,7 @@ const About: React.FC = () => {
             aspects of their job, streamlining workflows and enhancing productivity.
           </p>
           <p className="text-lg text-slate-700">
-            Based in Fremont, California, I'm constantly exploring new technologies and approaches to solve complex 
+            Based in Dublin, California, I'm constantly exploring new technologies and approaches to solve complex 
             problems and create intuitive, efficient solutions.
           </p>
         </div>
