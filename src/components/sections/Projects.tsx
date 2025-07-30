@@ -100,16 +100,10 @@ const Projects: React.FC = () => {
     },
     {
       title: "OfferOverflow",
-      description: "Job Applications Tracker to help manage the job search process and track application status.",
+      description: "Mobile-Tech Global Edtech Winner: Job Applications Tracker to help manage the job search process and track application status.",
       technologies: ["JavaScript", "Web Development", "UI/UX"],
-      imageUrl: "/projects/OfferOverflow.gif"
-    },
-    {
-      title: "Symbolic Gestures",
-      description: "EdTech project that won the Mobile-Tech Global Hackathon.",
-      technologies: ["JavaScript", "Mobile", "EdTech"],
+      imageUrl: "/projects/OfferOverflow.gif",
       githubUrl: "https://github.com/SymbolicGestures/SymbolicGestures",
-      imageUrl: "/projects/symbolic-gestures.png"
     }
   ];
 
