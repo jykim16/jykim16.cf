@@ -6,7 +6,7 @@ const Hero: React.FC = () => {
       <div className="container mx-auto px-4 py-16 flex flex-col items-center text-center">
         <div className="w-40 h-40 rounded-full overflow-hidden mb-8 border-4 border-blue-500 shadow-lg">
           <img 
-            src="/avatar.jpeg" 
+            src="/jonathan_hello_world.png" 
             alt="Jonathan Kim" 
             className="w-full h-full object-cover"
             onError={(e) => {

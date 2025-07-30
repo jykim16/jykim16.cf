@@ -78,7 +78,7 @@ const Projects: React.FC = () => {
       title: "Alexa LLM Infrastructure",
       description: "Deployed LLM inference infrastructure for the Alexa+ launch, enabling advanced language model capabilities.",
       technologies: ["AWS", "ML", "LLM", "Infrastructure"],
-      imageUrl: "/projects/alexa-llm.png"
+      imageUrl: "/projects/alexa-plus.png"
     },
     {
       title: "Tweetrics",
@@ -96,7 +96,7 @@ const Projects: React.FC = () => {
       title: "Volume IQ",
       description: "A Raspberry Pi solution for elevators to prevent unnecessary stops when at full spatial capacity. Won 3rd place at KONE Smart Building Hackathon.",
       technologies: ["IoT", "Raspberry Pi", "Sensors"],
-      imageUrl: "/projects/volume-iq.png"
+      imageUrl: "/projects/volume-iq.gif"
     },
     {
       title: "OfferOverflow",
